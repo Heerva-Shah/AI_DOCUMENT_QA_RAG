@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+conversation_history.db
+.idea/
+*.log
+
+# Debug/scratch scripts and test files (backend, not the real tests/ folder)
+backend/sample.pdf
+backend/check_models.py
+backend/list_embeddings_model.py
+backend/test_api.py
+backend/test_config.py
+backend/test_embedding_formats.py
+backend/test_ingestion.py
+backend/test_memory.py
+backend/test_retrieval.py

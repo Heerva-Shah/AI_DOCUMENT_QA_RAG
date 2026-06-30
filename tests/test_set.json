@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is DFT and what techniques does it use?",
+        "relevant_chunks": [1]
+    },
+    {
+        "question": "What percentage of chip cost involves testing?",
+        "relevant_chunks": [2]
+    },
+    {
+        "question": "How much test time savings does AI provide?",
+        "relevant_chunks": [2]
+    },
+    {
+         "question": "What AI techniques are used in test pattern generation?",
+         "relevant_chunks": [3, 4]
+    },
+    {
+        "question": "What are Graph Neural Networks used for in DFT?",
+        "relevant_chunks": [4, 11]
+    },
+    {
+        "question": "What is BIST and how does AI enhance it?",
+        "relevant_chunks": [8, 9]
+    },
+    {
+        "question": "What AI DFT tools does Cadence offer?",
+        "relevant_chunks": [10]
+    },
+    {
+        "question": "What were the outcomes of AI in ATE test time reduction?",
+        "relevant_chunks": [14]
+    },
+    {
+        "question": "What are the challenges of AI in DFT at 3nm and below?",
+        "relevant_chunks": [16]
+    },
+    {
+        "question": "What is the future outlook for DFT automation beyond 2030?",
+        "relevant_chunks": [17]
+    }
+]
